@@ -19,5 +19,9 @@
   "homepage": "https://github.com/MarcinBB/learning-git-2#readme",
   "dependencies": {
     "browser-sync": "^2.23.6"
+  },
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
   }
 }
