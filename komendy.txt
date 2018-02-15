@@ -1,3 +1,2 @@
-sass --sourcemap=none --style compact --update sass:css,
-node_modules/.bin/autoprefixer css/style.prefixed.css
+node_modules/.bin/autoprefixer -o style.prefixed.css
 node_modules/.bin/nu-html-checker *.html
